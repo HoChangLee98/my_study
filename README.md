@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">My Study Life</h1>
+  <h1 align="center">To Data Scientist</h1>
 
   <p align="center">
     
