@@ -1,0 +1,9 @@
+pandas
+numpy
+geopandas
+folium
+seaborn
+matplotlib
+ipykernel
+mapboxgl
+# sicikit-learn
